@@ -1,0 +1,38 @@
+{
+  "name": "Tiles074",
+  "category": "Materials",
+  "license": "CC0",
+  "commercial_ok": true,
+  "tags": [
+    "74",
+    "floor",
+    "marble",
+    "stone",
+    "tiled",
+    "tiles",
+    "tiling"
+  ],
+  "source_url": "https://ambientcg.com/view?id=Tiles074",
+  "page_url": "https://ambientcg.com/view?id=Tiles074",
+  "preview_urls": [
+    "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-PNG/Tiles074.png",
+    "https://acg-media.struffelproductions.com/file/ambientCG-Web/media/thumbnail/2048-JPG-FFFFFF/Tiles074.jpg"
+  ],
+  "quality": {
+    "score": 92,
+    "decision": "ACCEPT",
+    "reasons": [],
+    "warnings": [
+      "Missing optional maps: AO, EMISSIVE, METALLIC"
+    ]
+  },
+  "mesh_formats": [
+    "blend"
+  ],
+  "texture_maps": [
+    "albedo 2048x2048 jpg",
+    "height 2048x2048 jpg",
+    "normal 2048x2048 jpg",
+    "roughness 2048x2048 jpg"
+  ]
+}

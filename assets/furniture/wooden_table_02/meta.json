@@ -1,0 +1,38 @@
+{
+  "name": "Wooden Table 02",
+  "category": "Furniture",
+  "license": "CC0",
+  "commercial_ok": true,
+  "tags": [
+    "wooden",
+    "worn",
+    "village",
+    "rural",
+    "natural",
+    "simple"
+  ],
+  "source_url": "https://polyhaven.com/a/wooden_table_02",
+  "page_url": "https://polyhaven.com/a/wooden_table_02",
+  "preview_urls": [
+    "https://cdn.polyhaven.com/asset_img/thumbs/wooden_table_02.png?width=1024",
+    "https://cdn.polyhaven.com/asset_img/renders/wooden_table_02/clay.png?width=1024"
+  ],
+  "quality": {
+    "score": 93,
+    "decision": "ACCEPT",
+    "reasons": [],
+    "warnings": [
+      "Missing optional maps: EMISSIVE, HEIGHT"
+    ]
+  },
+  "mesh_formats": [
+    "gltf"
+  ],
+  "texture_maps": [
+    "albedo 2048x2048 jpg",
+    "ao 2048x2048 jpg",
+    "metallic 2048x2048 jpg",
+    "normal 2048x2048 jpg",
+    "roughness 2048x2048 jpg"
+  ]
+}
